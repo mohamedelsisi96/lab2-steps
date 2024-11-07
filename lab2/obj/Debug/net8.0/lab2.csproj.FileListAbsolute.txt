@@ -1,0 +1,9 @@
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\bin\Debug\net8.0\lab2.exe
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\bin\Debug\net8.0\lab2.dll
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\obj\Debug\net8.0\lab2.dll
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\obj\Debug\net8.0\refint\lab2.dll
+D:\c#\steps\intro c#\day 3\assignment\lab2\lab2\obj\Debug\net8.0\lab2.pdb
